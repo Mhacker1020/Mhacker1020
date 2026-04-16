@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mika — Security Engineer
+# MHacker — Security Engineer
 
 **Red Team · Blue Team · Tool Developer**
 
@@ -12,7 +12,7 @@
 
 ---
 
-I break things, detect attacks, and build security tools. Currently writing at **[Hive Security](https://hivesecurity.gitlab.io)** — practical offensive and defensive security content.
+Breaking things, detecting attacks, and building security tools. Currently writing at **[Hive Security](https://hivesecurity.gitlab.io)** — practical offensive and defensive security content.
 
 - Penetration testing (AD, web, cloud, infrastructure)
 - Threat hunting, DFIR, detection engineering

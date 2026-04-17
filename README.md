@@ -6,7 +6,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-Hive%20Security-orange?style=for-the-badge&logo=github-pages&logoColor=white)](https://hivesecurity.gitlab.io)
 [![PyPI gate](https://img.shields.io/pypi/v/gate-cli?style=for-the-badge&label=gate-cli&color=red)](https://pypi.org/project/gate-cli/)
-[![PyPI gate](https://img.shields.io/pypi/v/gate-cli?style=for-the-badge&label=gate-cli&color=red)](https://pypi.org/project/zipguard/)
+[![PyPI gate](https://img.shields.io/pypi/v/gate-cli?style=for-the-badge&label=zipguard&color=red)](https://pypi.org/project/zipguard/)
 [![GitHub followers](https://img.shields.io/github/followers/Mhacker1020?style=for-the-badge&color=blue)](https://github.com/Mhacker1020?tab=followers)
 
 </div>

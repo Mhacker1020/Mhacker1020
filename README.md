@@ -40,16 +40,17 @@ gate scan requirements.txt
 </td>
 <td width="50%">
 
-### [safe-extract](https://github.com/Mhacker1020/safe-extract)
-Secure archive extraction tool. Prevents path traversal attacks, zip bombs, and symlink exploits.
+### [zipguard](https://github.com/Mhacker1020/zipguard)
+Security-focused archive extraction CLI. Prevents Zip Slip, archive bombs, symlink abuse, executable drops, and ZIP64 manipulation — before writing anything to disk.
 
 ```bash
-git clone https://github.com/Mhacker1020/safe-extract
-python safe_extract.py archive.zip ./output
+pip install zipguard
+zipguard archive.zip --out ./output
 ```
 
 ![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python&logoColor=white)
-![License](https://img.shields.io/github/license/Mhacker1020/safe-extract)
+![PyPI](https://img.shields.io/pypi/v/zipguard?color=blue)
+![License](https://img.shields.io/github/license/Mhacker1020/zipguard)
 
 </td>
 </tr>
